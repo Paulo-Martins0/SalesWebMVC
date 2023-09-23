@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesWebMvc.Models;
+using SalesWebMVC.Models;
 
 namespace SalesWebMvc.Controllers
 {
